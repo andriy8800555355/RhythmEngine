@@ -23,7 +23,7 @@ pip install librosa numpy pydub
 ### Recommended Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/RhythmEngine.git
+git clone https://github.com/andriy8800555355/RhythmEngine.git
 cd RhythmEngine
 
 # Install requirements
